@@ -1,4 +1,4 @@
-const IMAGES = {
+export const IMAGES = {
   avatar: require("./avatar.png"),
   bg: require("./bg.png"),
   cloud: require("./cloud.png"),
